@@ -2,7 +2,8 @@
 
 namespace Exceptions
 {
-    public class Class1
+    public class Exception
     {
+        
     }
 }
